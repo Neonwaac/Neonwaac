@@ -1,19 +1,11 @@
 <div align="center">
-<h1 align="center">Hey there, shining star!<a href="https://github.com/Neonwaac"> Neonwaac</a> ready to dazzle you. </h1>
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩<br>
-🟩🟩⬜🟩🟩🟩🟩⬜🟩🟩<br>
-🟩🟩⬜⬜🟩🟩⬜⬜🟩🟩<br>
-🟩🟩⬜⬜⬜⬜⬜⬜🟩🟩<br>
-🟩⬜⬜⬜⬜⬜⬜⬜⬜🟩<br>
-🟩⬜⬜⬜⬜⬜⬜⬜⬜🟩<br>
-🟩⬜⬜⬜⬜⬜⬜⬜⬜🟩<br>
-🟩🟩⬜⬜⬜⬜⬜⬜🟩🟩<br>
-🟩🟩🟩⬜⬜⬜⬜🟩🟩🟩<br>
-🟩⬜🟩⬜⬜⬜⬜🟩🟩🟩<br>
-🟩🟩⬜⬜⬜⬜⬜⬜🟩🟩<br>
-🟩🟩⬜⬜⬜⬜⬜⬜🟩🟩<br>
-  
-## About me
-〰️ I love the coffee and awesome designs ❤️.
+<h1 align="center">Hola, estrellita!<a href="https://github.com/Neonwaac"> Neonwaac</a> está aquí para deslumbrarte 🌟</h1>
 <br>
-〰️ I make some tutorials on [Youtube](https://www.youtube.com/channel/UC7rJUWw2oosVTWpKHrHWwGA) 🤓.
+
+## Sobre mí
+<br>
+- Me encanta realizar diseños visualmente atractivos y extravagantes ❤️
+<br>
+- Hago guías de programación en [TikTok](https://www.tiktok.com/@neonwaac) 🌐
+<br>
+- Puedes ver mi portafolio haciendo click [Aquí](https://portafolio-black-xi.vercel.app)💼
