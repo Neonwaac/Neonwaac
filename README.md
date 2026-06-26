@@ -10,5 +10,5 @@ está aquí para deslumbrarte 🌟
 - Hago guías de programación en [TikTok](https://www.tiktok.com/@neonwaac) 🌐  
 - Puedes ver mi portafolio haciendo click [Aquí](https://portafolio-black-xi.vercel.app) 💼
 
-<center>[![Mis Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Neonwaac&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</center>
+[![Mis Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Neonwaac&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
