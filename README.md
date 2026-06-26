@@ -10,3 +10,5 @@ está aquí para deslumbrarte 🌟
 - Hago guías de programación en [TikTok](https://www.tiktok.com/@neonwaac) 🌐  
 - Puedes ver mi portafolio haciendo click [Aquí](https://portafolio-black-xi.vercel.app) 💼
 
+![Mis Lenguajes](https://vercel.app)
+
